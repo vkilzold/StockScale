@@ -1,13 +1,13 @@
 # StockScale
 Download your StockScale Setup Here
 
-Download the setup files
+1) Download the setup files
 
-Place them inside a folder
+2) Place them inside a folder
 
-Run either of the setup application
+3) Run either of the setup application
 
-Finish the installation
+4) Finish the installation
 
 
 for more infos
