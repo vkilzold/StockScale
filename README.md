@@ -3,7 +3,7 @@ Download your StockScale Setup Here
 
 Download the setup files
 Place them inside a folder
-Run either of the setup application
+> Run either of the setup application
 Finish the installation
 
 
